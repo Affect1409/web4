@@ -11,6 +11,7 @@
 }
 body{
 	background-image:url("1.jpg");
+	background-size: 100%;
 }
 #events{
 	border-radius:10px;
